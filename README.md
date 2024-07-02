@@ -20,8 +20,9 @@ The primary dataset used for this analysis is the "Data_set2-Copy.csv" file, con
 -SQL server for Data Analysis </br>
 -Tableau for creating Reports </br>
 
-### Excel:
--Addition of Unique Identifier
+### Task1:
+-Load the dataset into Tableau
+-Use descriptive functions to gather information about the number of entries, columns, and data types using EXCEL.
 
 ### Conclusion:
 
