@@ -1,6 +1,6 @@
 # Cognifyzproject
 
-## Investment Preferences and Behaviour Analysis
+## Investment Preferences and Behavior Analysis
 
 ## Table of Contents
 - [Project Overview](#project-overview)
