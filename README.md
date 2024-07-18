@@ -17,7 +17,6 @@ The primary dataset used for this analysis is the "Data_set2-Copy.csv" file, con
 
 Task 1
 
-![image](https://github.com/user-attachments/assets/f84d4a08-8f6a-47f2-9c0c-9f094859420f)
 
 
 Task 2 
