@@ -17,6 +17,9 @@ The primary dataset used for this analysis is the "Data_set2-Copy.csv" file, con
 
 ![image](https://github.com/user-attachments/assets/f84d4a08-8f6a-47f2-9c0c-9f094859420f)
 
+![image](https://github.com/user-attachments/assets/f9b7a813-bfc2-4b07-94c1-ccbe28152353)
+
+
 ### Conclusion:
 
 
