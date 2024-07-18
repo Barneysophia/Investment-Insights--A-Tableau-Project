@@ -15,7 +15,12 @@ The focus of this project is to understand the investment behaviors and preferen
 ### Dataset:
 The primary dataset used for this analysis is the "Data_set2-Copy.csv" file, contains individuals investment preferences and behaviors.
 
+Task 1
+
 ![image](https://github.com/user-attachments/assets/f84d4a08-8f6a-47f2-9c0c-9f094859420f)
+
+
+Task 2 
 
 ![image](https://github.com/user-attachments/assets/f9b7a813-bfc2-4b07-94c1-ccbe28152353)
 
