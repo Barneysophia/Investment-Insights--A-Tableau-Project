@@ -12,6 +12,7 @@
 - [Task 5](#task-5)
 - [Task 6](#task-6)
 - [Task 7](#task-7)
+- [Task 8](#task-8)
 - [Conclusion](#conclusion)
 
 ### Project Overview
@@ -72,6 +73,12 @@ In Task 6, the goal was to identify and present the primary savings objectives a
 In Task 7, I explored the dataset column where participants indicated their sources of investment information, then identified and summarized the most frequently cited sources among participants. This analysis aimed to uncover the channels through which investors gather information to inform their investment decisions.
 
 ![Task7](https://github.com/user-attachments/assets/3a5b1d29-3dd0-4427-a7cb-6cbf1b478a36)
+
+## Task 8
+### Investment Duration
+### Objective: Calculate the average investment duration
+
+In Task 8, I analyzed the dataset column that contains information about participants' investment durations and applied statistical methods such as mean calculation to determine the average duration of investments made by the participants. This analysis provided insights into typical investment holding periods within the dataset.
 
 ### Conclusion:
 
