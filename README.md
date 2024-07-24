@@ -6,7 +6,7 @@
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Conclusion](#conclusion)
-- 
+
 ### Project Overview
 
 The focus of this project is to understand the investment behaviors and preferences of participants through data analysis. By examining the dataset, the main aim is to reveal insights into gender distribution, key numerical metrics, popular investment avenues, the reasons behind investment choices, savings goals, sources of investment information, investment durations, and the expectations participants have from their investments.
