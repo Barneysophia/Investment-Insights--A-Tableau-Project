@@ -64,6 +64,13 @@ In Task 6, the goal was to identify and present the primary savings objectives a
 
 ![Task6](https://github.com/user-attachments/assets/3e01ac8f-1afd-4f82-b68c-f18796567551)
 
+## Task 7
+### Common Information Sources
+### Objective: Analyze common sources participants rely on for investment information
+
+In Task 7, I explored the dataset column where participants indicated their sources of investment information, then identified and summarized the most frequently cited sources among participants. This analysis aimed to uncover the channels through which investors gather information to inform their investment decisions.
+
+![Task7](https://github.com/user-attachments/assets/3a5b1d29-3dd0-4427-a7cb-6cbf1b478a36)
 
 ### Conclusion:
 
