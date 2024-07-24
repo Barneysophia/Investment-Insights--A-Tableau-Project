@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
-- [Task 1 : Data Overview](#task-1-:-data-overview)
+- [Task 1](#task-1)
 - [Conclusion](#conclusion)
 
 ### Project Overview
@@ -15,8 +15,8 @@ The focus of this project is to understand the investment behaviors and preferen
 ### Dataset:
 The primary dataset used for this analysis is the "Data_set2-Copy.csv" file, contains individuals investment preferences and behaviors.
 
-## Task 1 : Data Overview
-
+## Task 1
+### Data Overview
 ### Objective: To understand the dataset structure
 In Task 1, I loaded the dataset into a data analysis tool Tableau and used descriptive statistics to gather information on the dataset's structure, including the number of entries, columns, and data types. This helped establish a foundational understanding of the dataset's characteristics and organization.
 
