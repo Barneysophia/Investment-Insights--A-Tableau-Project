@@ -5,6 +5,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
+- [Task 1 : Data Overview](#task-1-:-data-overview)
 - [Conclusion](#conclusion)
 
 ### Project Overview
