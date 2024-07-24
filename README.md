@@ -11,6 +11,7 @@
 - [Task 4](#task-4)
 - [Task 5](#task-5)
 - [Task 6](#task-6)
+- [Task 7](#task-7)
 - [Conclusion](#conclusion)
 
 ### Project Overview
