@@ -78,7 +78,10 @@ In Task 7, I explored the dataset column where participants indicated their sour
 ### Investment Duration
 ### Objective: Calculate the average investment duration
 
-In Task 8, I analyzed the dataset column that contains information about participants' investment durations and applied statistical methods such as mean calculation to determine the average duration of investments made by the participants. This analysis provided insights into typical investment holding periods within the dataset.
+In Task 8, I analyzed the dataset column that contains information about participants' investment durations and applied statistical methods such as mean, standard deviation calculation to determine the average duration of investments made by the participants. This analysis provided insights into typical investment holding periods.
+
+![Task8](https://github.com/user-attachments/assets/1487e050-b3b1-438d-9281-590ec4a5be6d)
+
 
 ### Conclusion:
 
