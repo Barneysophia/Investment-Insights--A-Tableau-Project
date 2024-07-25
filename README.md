@@ -80,22 +80,23 @@ In Task 7, I explored the dataset column where participants indicated their sour
 ### Investment Duration
 ### Objective: To calculate the average investment duration
 
-In Task 8, I analyzed the dataset column that contains information about participants' investment durations and applied statistical methods such as mean, standard deviation calculation to determine the average duration of investments made by the participants. I updated the average duration column using SQL to reflect more accurate data. This analysis provided insights into typical investment holding periods.
+In Task 8, I analyzed the dataset column that contains information about participants' investment durations and applied statistical methods such as mean, standard deviation calculation to determine the average duration of investments made by the participants. I updated the average duration column using PostgreSQL to reflect more accurate data. This analysis provided insights into typical investment holding periods.
 
 ![Task8](https://github.com/user-attachments/assets/1487e050-b3b1-438d-9281-590ec4a5be6d)
 
 ## Task 9
 ### Expectations from Investments
-### To summarize participants' expectations
+### Objective: To summarize participants' expectations
 
 In this task, I reviewed the Expect column to understand participants' investment goals. I listed and described the common expectations, which included risk-free,growth potential and better returns. This analysis provided a clear summary of what participants typically seek from their investments.
+
 ![Task9](https://github.com/user-attachments/assets/be4416ed-b12f-4aa6-bb9e-a56bbcde682d)
 
 ## Task 10
 ### Correlation Analysis
-### To explore potential correlations between factors
+### Objective: To explore potential correlations between factors
 
-In this task, I used SQL to calculate the average values for age, investment duration, and expected returns. This approach provided a clear understanding of the typical values for these factors, facilitating further analysis of their relationships and trends.
+In this task, I used PostgreSQL to calculate the average values for age, investment duration, and expected returns. This approach provided a clear understanding of the typical values for these factors, facilitating further analysis of their relationships and trends.
 
 ![Task10](https://github.com/user-attachments/assets/34bd6aec-8171-487e-a870-089f96384c8c)
 
