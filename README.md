@@ -68,7 +68,7 @@ In Task 6, the goal was to identify and present the primary savings objectives a
 
 ## Task 7
 ### Common Information Sources
-### Objective: Analyze common sources participants rely on for investment information
+### Objective: To analyze common sources participants rely on for investment information
 
 In Task 7, I explored the dataset column where participants indicated their sources of investment information, then identified and summarized the most frequently cited sources among participants. This analysis aimed to uncover the channels through which investors gather information to inform their investment decisions.
 
@@ -76,7 +76,7 @@ In Task 7, I explored the dataset column where participants indicated their sour
 
 ## Task 8
 ### Investment Duration
-### Objective: Calculate the average investment duration
+### Objective: To calculate the average investment duration
 
 In Task 8, I analyzed the dataset column that contains information about participants' investment durations and applied statistical methods such as mean, standard deviation calculation to determine the average duration of investments made by the participants. This analysis provided insights into typical investment holding periods.
 
