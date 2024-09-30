@@ -1,4 +1,4 @@
-# Cognifyzproject
+# Investment Insights - A Tableau Project (Cognifyz Technologies )
 
 ## Investment Preferences and Behavior Analysis
 
