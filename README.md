@@ -31,6 +31,20 @@ In Task 1, I loaded the dataset into a data analysis tool Tableau and used descr
 
 ![Task1](https://github.com/user-attachments/assets/b216c957-6ea4-41c2-94e9-73abb86f81e9)
 
+Key Insights:
+Majority Male Investors: 62.5% of the 40 investors are male.
+Young Demographic: Average investor age is 27.8 years.
+Top Investments: Gold (239) and Debentures (230) are the most popular.
+Retirement Focus: Retirement plans are the primary savings objective.
+Reliance on Consultants: Financial consultants are the most trusted source for investment advice.
+Traditional Preferences: Investors favor safe options like government bonds and fixed deposits.
+Recommendations:
+Target Younger Investors with retirement and health care plans.
+Promote Safe Investments like gold and debentures.
+Leverage Financial Consultants to expand reach.
+Diversify Communication through online channels to engage younger, tech-savvy investors.
+Enhance Retirement Products to align with long-term goals.
+
 ## Task 2
 ### Gender Distribution
 ### Objective: To visualize gender distribution in the dataset
