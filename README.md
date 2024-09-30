@@ -31,19 +31,23 @@ In Task 1, I loaded the dataset into a data analysis tool Tableau and used descr
 
 ![Task1](https://github.com/user-attachments/assets/b216c957-6ea4-41c2-94e9-73abb86f81e9)
 
-Key Insights:
-Majority Male Investors: 62.5% of the 40 investors are male.
-Young Demographic: Average investor age is 27.8 years.
-Top Investments: Gold (239) and Debentures (230) are the most popular.
-Retirement Focus: Retirement plans are the primary savings objective.
-Reliance on Consultants: Financial consultants are the most trusted source for investment advice.
-Traditional Preferences: Investors favor safe options like government bonds and fixed deposits.
-Recommendations:
-Target Younger Investors with retirement and health care plans.
-Promote Safe Investments like gold and debentures.
-Leverage Financial Consultants to expand reach.
-Diversify Communication through online channels to engage younger, tech-savvy investors.
-Enhance Retirement Products to align with long-term goals.
+# Key Insights
+
+- **Majority Male Investors**: 62.5% of the 40 investors are male.
+- **Young Demographic**: The average investor age is 27.8 years.
+- **Top Investments**: Gold (239) and Debentures (230) are the most popular.
+- **Retirement Focus**: Retirement plans are the primary savings objective.
+- **Reliance on Consultants**: Financial consultants are the most trusted source for investment advice.
+- **Traditional Preferences**: Investors favor safe options like government bonds and fixed deposits.
+
+## Recommendations
+
+1. **Target Younger Investors**: Focus on retirement and health care plans.
+2. **Promote Safe Investments**: Highlight gold and debentures.
+3. **Leverage Financial Consultants**: Utilize their influence to expand reach.
+4. **Diversify Communication**: Use online channels to engage younger, tech-savvy investors.
+5. **Enhance Retirement Products**: Align offerings with long-term goals.
+
 
 ## Task 2
 ### Gender Distribution
@@ -52,12 +56,44 @@ In Task 2, I focused on visualizing the gender distribution. First, I extracted 
 
 ![Task2](https://github.com/user-attachments/assets/17b5a1d8-4463-40bd-8717-88555117e759)
 
+# Key Insights
+
+- **Gender Distribution**: Males (25) significantly outnumber females (15) in the investor group.
+- **Investment Choices**: Both genders strongly prefer gold and debentures. Males are slightly more inclined toward government bonds and fixed deposits.
+- **Information Sources**: **Financial consultants** are the most frequently used source for both genders.
+- Females rely more on the **internet** compared to males, while males prefer traditional media like **newspapers** and **magazines**
+- **Expected Investment Returns**: A majority of both males and females expect returns in the **20%-30%** range. Fewer investors expect returns in the **30%-40%** range.
+
+## Recommendations
+1. **Expand Offerings for Females**: Tailor products and marketing strategies to appeal to female investors, focusing on digital channels like the internet.
+2. **Enhance Gold and Debenture Products**: Given the strong preference for these avenues, consider offering more flexible or attractive options in these areas.
+3. **Promote Balanced Returns**: Align investment products with the majority's expectations of 20%-30% returns, ensuring a competitive yet realistic offering.
+
+
 ## Task 3
 ### Descriptive Statistics
 ### Objective: To present basic statistics for numerical columns 
 In Task 3, I first identified columns containing numerical data, such as age or income, and then utilized statistical functions to compute the mean, median, and standard deviation for each numerical column. This process provided key numerical insights into the dataset's characteristics and distributions.
 
 ![Task3](https://github.com/user-attachments/assets/07d87796-18b8-4501-bf27-b514247418c5)
+# Key Insights
+
+- **Average Age**: The average age of participants is 27.8 years, with a standard deviation of 3.56, indicating a fairly young and consistent demographic.
+  
+- **High Mean and Median Investments**: 
+  - Debentures and Gold have the highest mean (6) and median values (7 and 6, respectively), showing their popularity.
+  - Government Bonds are also a stable option, with a median of 5.
+  
+- **Low-Risk Investments**: Fixed deposits have consistent returns, supported by a low standard deviation (1.7958), making them a reliable choice.
+  
+- **Equity Market**: Has the lowest mean (3) and standard deviation (1.132), indicating less interest or more volatility.
+
+## Recommendations
+
+1. **Promote Safe Investments**: Focus on marketing Debentures, Gold, and Government Bonds as stable and high-performing options for this demographic.
+2. **Leverage Fixed Deposits**: Highlight the stability and safety of Fixed Deposits for risk-averse investors.
+3. **Educate on Equity Markets**: Provide education and resources to increase interest in equity markets, given their current lower engagement.
+
 
 ## Task 4 
 ### Most Preferred Investment Avenue
