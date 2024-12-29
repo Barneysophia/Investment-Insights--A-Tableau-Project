@@ -183,16 +183,16 @@ In this task, I reviewed the Expect column to understand participants' investmen
 ![Task9](https://github.com/user-attachments/assets/be4416ed-b12f-4aa6-bb9e-a56bbcde682d)
 
 ## Key Insights
-Most investors expect 20%-30% returns, making it the most popular return range.
-Gold is a preferred choice for stability among investors in the 20%-30% return category.
-Capital appreciation is the top reason for investing in equities, showing growth-focused behavior.
-Mutual funds attract investors for their better returns and tax benefits, offering balanced appeal.
+– Most investors expect 20%-30% returns, making it the most popular return range.
+– Gold is the preferred choice for stability among investors in the 20%-30% return category.
+– Capital appreciation is the top reason for investing in equities, reflecting growth-focused behavior.
+– Mutual funds attract investors for their better returns and tax benefits, offering a balanced appeal.
 
 ## Recommendations
-Focus on promoting products that consistently deliver 20%-30% returns to match investor expectations.
-Highlight gold investments as a stable option and a hedge against inflation for risk-averse investors.
-Offer tax-saving products like ELSS funds and emphasize their dual benefits of returns and tax efficiency.
-Provide personalized, diversified investment plans that balance equity, gold, and fixed deposits.
+1. Focus on promoting products that consistently deliver 20%-30% returns to match investor expectations.
+2. Highlight gold investments as a stable option and a hedge against inflation for risk-averse investors.
+3. Offer tax-saving products like ELSS funds and emphasize their dual benefits of returns and tax efficiency.
+4. Provide personalized, diversified investment plans that balance equity, gold, and fixed deposits.
 
 ## Task 10
 ### Correlation Analysis
@@ -204,16 +204,16 @@ In this task, I used PostgreSQL to calculate the average values for age, investm
 
 
 ## Key Insights:
-Average Investment Duration: A strong positive correlation is observed between decision averages and investment duration, indicating consistent decision-making patterns among investors.
-Expected Returns vs. Duration: A slight positive trend exists, showing that longer investment durations may yield higher expected returns.
-Duration by Age: There is no significant correlation between age and investment duration, suggesting that investment length does not depend heavily on the investor's age.
-Returns by Age: A weak negative correlation is noted, implying older investors may expect slightly lower returns compared to younger ones.
+– A strong positive correlation is observed between decision averages and investment duration, indicating consistent decision-making patterns among investors.
+– A slight positive trend exists, showing that longer investment durations may yield higher expected returns.
+– There is no significant correlation between age and investment duration, suggesting that investment length does not depend heavily on the investor's age.
+– A weak negative correlation is noted, implying older investors may expect slightly lower returns compared to younger ones.
 
 ## Recommendations:
-Enhance Long-Term Strategies: Encourage longer investment durations to potentially maximize returns.
-Tailor Investment Plans by Age: Design age-specific plans to address varying return expectations effectively.
-Focus on Data-Driven Decisions: Use data-backed insights to refine investment recommendations for different demographics.
-Further Analyze Anomalies: Investigate outliers in age-based returns to uncover unique opportunities or risks.
+1. Enhance long-term strategies by encouraging longer investment durations to potentially maximize returns.
+2. Tailor investment plans by age to address varying return expectations effectively.
+3. Focus on data-driven decisions by using insights to refine investment recommendations for different demographics.
+4. Further analyze anomalies in age-based returns to uncover unique opportunities or risks.
 
 
 ### Conclusion:
